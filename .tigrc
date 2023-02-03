@@ -1,0 +1,6 @@
+set commit-order = default
+set main-options = -n 100
+set show-changes = no
+set vertical-split = horizontal
+set split-view-height = 80%
+set status-show-untracked-files = true
